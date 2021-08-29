@@ -27,10 +27,10 @@ El promedio de los n números leídos.
 
 **Ejemplo de ejecución del programa:**  
 ```
->>>3                        
->>>2.5                   
->>>3.8                   
->>>4.6                  
+3                        
+2.5                   
+3.8                   
+4.6                  
 3.633333333333333   
 ```
 

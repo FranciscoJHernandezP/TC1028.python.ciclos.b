@@ -27,8 +27,8 @@ La lista de números pares que están dentro de ese rango (incluyendo los límit
 
 **Ejemplos de ejecución del programa**
 ```
->>> 3
->>> 12
+3
+12
 4
 6
 8
